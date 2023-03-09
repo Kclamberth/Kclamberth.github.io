@@ -44,9 +44,15 @@ h3{
 }
 .content-left h2{
     text-align: center;
-    padding-bottom: 1em;
+    padding-bottom: 0em;
+    margin-bottom: 1em;
     color: #fff;
     text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-size: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 .content-left p{
     text-align: center;
@@ -54,6 +60,8 @@ h3{
     color: #fff;
     text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
     font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 18px;
 }
 .content-left a{
     margin-right: 44%;
@@ -69,18 +77,32 @@ h3{
     text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
     font-weight: bold;
     margin-right: 5%;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 18px;
 }
 .content-right h2{
     text-align: center;
-    padding-bottom: 1em;
+    padding-bottom: 0em;
+    margin-bottom: 1em;
     color: #fff;
     text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-size: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 .design h3{
     text-align: center;
-    padding-bottom: 1em;
+    padding-bottom: 0em;
+    margin-bottom: 1em;
     color: #fff;
     text-shadow: 20px 10px 5px rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    font-size: 25px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 nav{
     display: block;
@@ -115,6 +137,7 @@ p{
     border-radius: 10px;
     color: #fff;
     font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.3);
 
 }
 video{
@@ -427,14 +450,19 @@ caption{
     position: fixed;
     right: 0;
     margin-right: 3%;
-    padding-top: 3em;
+    padding-top: 0em;
+    margin-top: 6em;
     justify-content: flex-end;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
 }
 li{
     display: block;
 }
 nav a{
     float: right;
+
 }
 td a{
     background-color: #fff;
