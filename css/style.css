@@ -359,6 +359,14 @@ table th{
     padding-bottom: .25em;
     text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
 }
+.lefttable{
+    text-align: left;
+    padding-top: 1em;
+    text-decoration: underline;
+    line-height: 1.5em;
+    padding-bottom: .25em;
+    text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
 table td{
     line-height: 1.5em;
     list-style-position: outside;
